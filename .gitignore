@@ -1,0 +1,15 @@
+.idea/
+
+*.xml
+
+*.iml
+
+.idea/Development.iml
+
+.idea/workspace.xml
+
+.idea/misc.xml
+
+.idea/modules.xml
+
+.idea/vcs.xml
