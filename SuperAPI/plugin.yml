@@ -1,0 +1,6 @@
+name: SuperAPI
+main: PMPlugins\SuperAPI\SAPI
+version: 1.3.2
+api: 
+- 0.13.1
+author: M7mmdgMeR7
