@@ -1,0 +1,11 @@
+name: ArrowTP
+main: M7mmdgMeR7\arrowtp\Main
+version: 2.0.0
+api: [0.13.1+]
+author: jojoe77777
+description: Arrow teleportation! Also fixes arrow crash glitch.
+
+permissions:
+ arrowtp.tp:
+  default: op
+  description: TP to your arrows!
